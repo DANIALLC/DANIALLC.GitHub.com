@@ -1,1 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sección 2: Señales de alerta</title>
+  <style>
+    body {
+      background-color: #E7BBAA;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
 
+    footer {
+      background-color: #f4f4f4;
+      text-align: center;
+      padding: 10px 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      border-top: 1px solid #ccc;
+    }
+
+    img {
+      display: block;
+      margin: 20px auto;
+      height: 200px;
+      width: 200px;
+    }
+
+    h1 {
+      color: red;
+    }
+
+    a {
+      color: darkblue;
+      display: block;
+      margin: 10px 0;
+    }
+
+    .subtitulo {
+      font-weight: bold;
+      margin-top: 20px;
+    }
+
+    ul {
+      padding-left: 30px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Sección 2: Señales de alerta</h1>
+
+  <img src="https://cdn.pixabay.com/photo/2019/11/08/11/09/anxiety-4616773_1280.jpg" alt="Señales emocionales">
+
+  <p class="subtitulo">Señales de alerta: ¿cómo saber si algo no está bien?</p>
+
+  <p>
+    Muchas veces las señales de que algo no anda bien mental o emocionalmente no son tan obvias. 
+    No necesitas estar llorando todos los días para que algo merezca atención. Hay muchas formas 
+    en las que la mente avisa que necesita ayuda, pero a veces las ignoramos o las normalizamos.
+  </p>
+
+  <p>Algunas señales comunes son:</p>
+
+  <ul>
+    <li>Sentirse vacío o sin ganas de hacer cosas que antes disfrutabas.</li>
+    <li>Alejarte de las personas sin saber por qué.</li>
+    <li>Cambios en el sueño (dormir demasiado o muy poco).</li>
+    <li>Problemas de concentración o memoria.</li>
+    <li>Cambios en el apetito.</li>
+    <li>Sentir que todo te irrita, te cansa o te frustra fácilmente.</li>
+    <li>Pensamientos negativos constantes, como “no valgo nada” o “todo es mi culpa”.</li>
+    <li>Falta de motivación o sensación de estar atrapado.</li>
+    <li>Pensamientos sobre hacerse daño o no querer vivir (en estos casos, es muy importante pedir ayuda de inmediato).</li>
+  </ul>
+
+  <p>
+    Ninguna emoción está “mal”, pero cuando esas emociones se sienten fuera de control o no desaparecen 
+    con el tiempo, es momento de hablar con alguien. Nadie tiene que cargar con todo solo, y tampoco hay 
+    que esperar a estar “muy mal” para pedir ayuda.
+  </p>
+
+  <a href="https://DANIALLC.github.io/Seccion%203">Sección 3: ¿Cómo cuidar tu salud mental todos los días?</a>
+  <a href="https://DANIALLC.github.io/index.html">Regresar al inicio</a>
+
+  <footer>
+    <p>&copy; 2025 Mi proyecto | Dania Páez. Todos los derechos reservados.</p>
+  </footer>
+
+</body>
+</html>
